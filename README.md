@@ -20,6 +20,6 @@
   <a href = "mailto:dev.bonaldo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-bonaldo-souza-4a3636a2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Rafael-Bonaldo/rafabonaldo/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Rafael-Bonaldo/Rafael-Bonaldo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
