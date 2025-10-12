@@ -1,4 +1,4 @@
-## Olá, me chamo Rafael Bonaldo, desenvolvedor front-end e criador de conteúdo de tecnologia!
+## Olá, me chamo Rafael Bonaldo, desenvolvedor front-end!
 <div align="left">
   <a href="https://github.com/Rafael-Bonaldo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Bonaldo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
